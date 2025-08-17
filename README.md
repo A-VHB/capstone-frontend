@@ -84,5 +84,5 @@ This frontend works in conjunction with the backend service running on port 8000
 
 ## Repository
 
-Frontend Repository: https://github.com/hf-cure/capstone-frontend
-Backend Repository: https://github.com/hf-cure/capstone
+Frontend Repository: https://github.com/A-VHB/capstone-frontend
+Backend Repository: https://github.com/A-VHB/capstone-backend
